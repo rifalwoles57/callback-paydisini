@@ -47,7 +47,7 @@ app.post('/callback', async (req, res) => {
 ┊
 ┊・ Pembelian barang berhasil, terima 
 ┊     kasih telah berbelanja. Yuk beli 
-┊     akun di @IDevilsStoreBOT , Silakan Type /menu untuk membeli barang
+┊     akun di @IDevilsStoreBOT ,   Silakan Type /menu untuk membeli barang
 ┊
 ┊・ Owner : @IDevilsStoree
 ┊・ ©2024
